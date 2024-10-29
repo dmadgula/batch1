@@ -1,5 +1,5 @@
 # batch1
-#git commands
+# git commands
 
 
 ## To clone a repository
@@ -10,7 +10,10 @@
     git add <filename>
 
 
-### to commit changes 
+### To commit changes 
     git commit -m "commit message"
+    
+### To push the changes
+    git push origin <source>
 
     
